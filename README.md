@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=GITHUB%20TEST&fontSize=90&animation=fadeIn&fontAlignY=38&desc=abcdefghijk....&descAlignY=51&descAlign=62)
 <!--text=메인 텍스트, desc=부가 설명, 작은 글-->
 
-![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)
-
-[![Notion Portfolio](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=black)](https://leejune.notion.site/70b846886e2e41368280f5a7e49f9e0d)
+[![Notion Portfo
+o](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=black)](https://leejune.notion.site/70b846886e2e41368280f5a7e49f9e0d)
 
 ![OneDrive](https://img.shields.io/badge/OneDrive-white?style=flat-square&logo=Microsoft%20OneDrive&logoColor=0078D4)
 
@@ -46,9 +45,10 @@
 <!--나중에 테마 수정-->
 
 
+### 🤝🏻 &nbsp;Contact
+<a href="mailto:mars102aq@gmail.com"><img src="https://img.shields.io/badge/-mars102aq@gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
 
-
-
+![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)
 
 
 
