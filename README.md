@@ -40,9 +40,8 @@ o](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&lo
 ### 💻 &nbsp;GitHub Analytics
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=marso34&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/marso34/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&layout=compact&theme=transparent)](https://github.com/marso34/github-readme-st
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&layout=compact&theme=transparent)](https://github.com/marso34/github-readme-stats)
 <!--나중에 테마 수정-->
-
 
 ### 🤝🏻 &nbsp;Contact
 <a href="mailto:mars102aq@gmail.com"><img src="https://img.shields.io/badge/-mars102aq@gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
