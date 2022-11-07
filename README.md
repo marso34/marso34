@@ -54,6 +54,12 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 <br/>
 
+### 💻 &nbsp;GitHub Analytics
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=marso34&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/marso34/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&layout=compact&theme=algolia)](https://github.com/marso34/github-readme-stats)
+
+
 
 <!-- 
 
