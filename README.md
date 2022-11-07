@@ -1,21 +1,5 @@
-### Hi there 👋
-
-<!--
-**marso34/marso34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=GITHUB%20TEST&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=GITHUB%20TEST&fontSize=90&animation=fadeIn&fontAlignY=38&desc=abcdefghijk....&descAlignY=51&descAlign=62)
+<!--text=메인 텍스트, desc=부가 설명, 작은 글-->
 
 ![Gmail](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white)
 
@@ -56,12 +40,21 @@ Here are some ideas to get you started:
 
 ### 💻 &nbsp;GitHub Analytics
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=marso34&show_icons=true&theme=vue&include_all_commits=true&count_private=true")](https://github.com/marso34/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&layout=compact&theme=vue)](https://github.com/marso34/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=marso34&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/marso34/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&layout=compact&theme=transparent)](https://github.com/marso34/github-readme-stats)
 
 <!--나중에 테마 수정-->
 
-<!-- 
+
+
+
+
+
+
+
+
+
+
 
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -253,4 +246,3 @@ MIT
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
    [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
- -->
