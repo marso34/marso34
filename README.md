@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 
 ### 💻 &nbsp;GitHub Analytics
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=marso34&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/marso34/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&layout=compact&theme=algolia)](https://github.com/marso34/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=marso34&show_icons=true&theme=vue&include_all_commits=true&count_private=true")](https://github.com/marso34/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&layout=compact&theme=vue)](https://github.com/marso34/github-readme-stats)
 
-
+<!--나중에 테마 수정-->
 
 <!-- 
 
