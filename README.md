@@ -2,9 +2,6 @@
 
 <!--text=메인 텍스트, desc=부가 설명, 작은 글-->
 
-
-### 👋 반갑습니다!
-
 <!-- ![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white) 
  -->
 [![Notion Portfo
