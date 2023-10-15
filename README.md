@@ -27,10 +27,13 @@ o](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&lo
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 <br/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=marso34)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 💻 &nbsp;GitHub Analytics
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=marso34&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/marso34/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&layout=compact&theme=transparent)](https://github.com/marso34/github-readme-stats)
+![marso34's github stats](https://github-readme-stats.vercel.app/api?username=marso34&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
+[![marso34's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/marso34)
+
 <!--나중에 테마 수정-->
 
 ### 🤝🏻 &nbsp;Contact
