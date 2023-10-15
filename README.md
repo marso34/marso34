@@ -27,7 +27,7 @@ o](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&lo
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=marso34)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=marso34)](https://github.com/marso34/github-profile-trophy)
 
 ### 💻 &nbsp;GitHub Analytics
 
