@@ -31,7 +31,7 @@ o](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&lo
 
 ### 💻 &nbsp;GitHub Analytics
 
-![marso34's github stats](https://github-readme-stats.vercel.app/api?username=marso34&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
+[![marso34's github stats](https://github-readme-stats.vercel.app/api?username=marso34&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/marso34/github-readme-stats)
 [![marso34's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/marso34)
 
 <!--나중에 테마 수정-->
