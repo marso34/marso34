@@ -4,7 +4,12 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&animation=fadeIn&height=250&fontSize=40&fontAlignY=40&fontAlign=50&text=Welcome%20to%20my%20GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=&animation=twinkling&height=100)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=45&duration=4000&pause=3&center=true&random=true&width=1000&height=100&lines=Welcome+to+June's+GitHub)](https://git.io/typing-svg)
+
+![header](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto&text=&animation=twinkling&height=70)
+
 
 <!--text=메인 텍스트, desc=부가 설명, 작은 글-->
  
@@ -14,21 +19,22 @@ o](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&lo
 
 ### 🛠 &nbsp;Skills
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-239120?style=fla&logo=Csharp&logoColor=whitet)&nbsp;
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;\
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)&nbsp;\
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)&nbsp;\
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)&nbsp;\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=fla&logo=Csharp&logoColor=whitet)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)\
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)\
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)\
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
 <br/>
 <br/>
 
