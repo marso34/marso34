@@ -12,7 +12,7 @@
 o](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=black)](https://leejune.notion.site/70b846886e2e41368280f5a7e49f9e0d)
 <br/>
 
-### 🛠 &nbsp;언어 및 도구
+### 🛠 &nbsp;Skills
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-239120?style=fla&logo=Csharp&logoColor=whitet)&nbsp;
@@ -30,24 +30,32 @@ o](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&lo
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 <br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=marso34)](https://github.com/marso34/github-profile-trophy)
+<br/>
 
 <div align='center'>
- 
- ### 💻 &nbsp;BaekJoon Tier
- 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mars102aq)](https://solved.ac/mars102aq/)
- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=mars102aq&theme=cold) 
+  
+  ### 💻 BaekJoon Tier
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mars102aq)](https://solved.ac/mars102aq/)
+  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=mars102aq&theme=cold) 
 
- <br/>
- 
- ### 💻 &nbsp;GitHub Stats
+  #
+  
+  ### 💻 GitHub Stats
+  
+  ![marso34's GitHub stats](https://github-readme-stats.vercel.app/api?username=marso34&count_private=true&show_icons=true&bg_color=35,1b202d,677489,9aa5b8,d1d8e2&title_color=fff&text_color=fff&border_radius=16)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&layout=compact&bg_color=35,d1d8e2,9aa5b8,677489,1b202d&title_color=fff&text_color=fff&border_radius=12)
 
- ![marso34's GitHub stats](https://github-readme-stats.vercel.app/api?username=marso34&count_private=true&show_icons=true&bg_color=35,1b202d,677489,9aa5b8,d1d8e2&title_color=fff&text_color=fff&border_radius=16)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&layout=compact&bg_color=35,d1d8e2,9aa5b8,677489,1b202d&title_color=fff&text_color=fff&border_radius=12)
+  #
+
+   ### 🏆 GitHub Trophy
+
+  ![trophy](https://github-profile-trophy.vercel.app/?username=marso34&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=8&theme=onedark)
 
 </div>
 
-### 🤝🏻 &nbsp;contact me
+<br/>
+<br/>
+
+### 📧 contact me
 <a href="mailto:mars102aq@gmail.com"><img src="https://img.shields.io/badge/-mars102aq@gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
