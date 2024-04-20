@@ -1,9 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome%20to%20my%20GitHub&fontSize=70&animation=fadeIn&fontAlignY=38&desc=!%20GitHub%20Test%20!&descAlignY=55&descAlign=62)
+<div align="right">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarso34&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&section=header&animation=fadeIn&height=250&fontSize=40&fontAlignY=40&fontAlign=50&text=Welcome%20to%20my%20GitHub)
 
 <!--text=메인 텍스트, desc=부가 설명, 작은 글-->
-
-<!-- ![Tech Blog Badge](https://img.shields.io/badge/Blog-CC0000?style=flat-square&logo=Tesla&logoColor=white) ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white) 
- -->
+ 
 [![Notion Portfo
 o](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=black)](https://leejune.notion.site/70b846886e2e41368280f5a7e49f9e0d)
 <br/>
@@ -29,12 +33,21 @@ o](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&lo
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marso34)](https://github.com/marso34/github-profile-trophy)
 
-### 💻 &nbsp;GitHub Analytics
+<div align='center'>
+ 
+ ### 💻 &nbsp;BaekJoon Tier
+ 
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mars102aq)](https://solved.ac/mars102aq/)
+ ![mazandi profile](http://mazandi.herokuapp.com/api?handle=mars102aq&theme=cold) 
 
-[![marso34's github stats](https://github-readme-stats.vercel.app/api?username=marso34&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)](https://github.com/marso34/github-readme-stats)
-[![marso34's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/marso34)
+ <br/>
+ 
+ ### 💻 &nbsp;GitHub Stats
 
-<!--나중에 테마 수정-->
+ ![marso34's GitHub stats](https://github-readme-stats.vercel.app/api?username=marso34&count_private=true&show_icons=true&bg_color=35,1b202d,677489,9aa5b8,d1d8e2&title_color=fff&text_color=fff&border_radius=16)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marso34&layout=compact&bg_color=35,d1d8e2,9aa5b8,677489,1b202d&title_color=fff&text_color=fff&border_radius=12)
 
-### 🤝🏻 &nbsp;Contact
+</div>
+
+### 🤝🏻 &nbsp;contact me
 <a href="mailto:mars102aq@gmail.com"><img src="https://img.shields.io/badge/-mars102aq@gmail.com-red?style=flat&logo=Gmail&logoColor=white"/></a>
