@@ -4,11 +4,9 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=&animation=twinkling&height=100)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=45&duration=4000&pause=3&center=true&random=true&width=1000&height=100&lines=Welcome+to+June's+GitHub)](https://git.io/typing-svg)
-
-![header](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto&text=&animation=twinkling&height=70)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=&animation=twinkling&height=100)](https://github.com/marso34)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=45&duration=4000&pause=3&center=true&random=true&width=1000&height=100&lines=Welcome+to+June's+GitHub)](https://github.com/marso34)
+[![header](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto&text=&animation=twinkling&height=70)](https://github.com/marso34)
 
 
 <!--text=메인 텍스트, desc=부가 설명, 작은 글-->
