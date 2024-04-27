@@ -11,8 +11,15 @@
 
 <!--text=메인 텍스트, desc=부가 설명, 작은 글-->
  
-[![Notion Portfo
-o](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=black)](https://leejune.notion.site/70b846886e2e41368280f5a7e49f9e0d)
+<!-- 
+  [![Notion Portfolio](https://img.shields.io/badge/Portfolio-white?style=flat-square&logo=Notion&logoColor=black)](https://leejune.notion.site/70b846886e2e41368280f5a7e49f9e0d)
+  <br/>   
+-->
+
+<br/>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/notion.svg' alt='notion' height='40'>](https://leejune.notion.site/)  
+
 <br/>
 
 ### 🛠 &nbsp;Skills
