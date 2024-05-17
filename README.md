@@ -61,7 +61,7 @@
 
    ### 🏆 GitHub Trophy
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=marso34&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=8&theme=onedark&no-bg=true)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=marso34&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=8&theme=onedark&no-bg=true)
 
 </div>
 
