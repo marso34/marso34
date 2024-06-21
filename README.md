@@ -10,34 +10,36 @@
 
 
 <!--text=메인 텍스트, desc=부가 설명, 작은 글-->
- 
+
 
 <br/>
 
 <br/>
 
-### 🛠 &nbsp;Skills
+<div align="center">
+  
+  ### 🛠 Skills
+  
+  #### Languages
+  ![Languages](https://skillicons.dev/icons?i=c,cpp,cs,js,java,kotlin)
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=fla&logo=Csharp&logoColor=whitet)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)\
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white)\
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)\
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  #### Backend
+  ![Backend](https://skillicons.dev/icons?i=aws,spring,nodejs)
+  
+  #### Frontend
+  ![Frontend](https://skillicons.dev/icons?i=vue,html,css,sass)
+  
+  #### DBMS
+  ![DBMS](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)
+  
+  #### Tools & Technologies
+  ![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,idea,androidstudio,figma,notion)
+  
+  #### 📘 Studying 
+  ![Studying](https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka,postgres)
 
-<br/>
-<br/>
 
-<div align='center'>
+  #
   
   ### 💻 BaekJoon Tier
   
