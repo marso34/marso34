@@ -56,4 +56,4 @@
 <br/>
 
 ### 📧 contact me
-<a href="mailto:mars102aq@gmail.com"><img src="https://img.shields.io/badge/-mars102aq@gmail.com-red?style=flat&logo=Gmail&logoColor=white" height="35"/></a>
+<a href="mailto:mars102aq@gmail.com"><img src="https://img.shields.io/badge/-mars102aq@gmail.com-red?style=flat&logo=Gmail&logoColor=white" height="26"/></a>
