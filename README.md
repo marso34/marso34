@@ -2,16 +2,11 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarso34&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-
-<!-- [![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&text=&animation=twinkling&height=100)](https://github.com/marso34)
-[![Title](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=45&duration=4000&pause=3&center=true&random=true&width=1000&height=100&lines=Welcome+to+June's+GitHub)](https://github.com/marso34)
-[![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeAuto&text=&animation=twinkling&height=70)](https://github.com/marso34) -->
-
 <br/>
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/163321ed-7cb9-4afe-b854-a21b5e3a398d" height=200/>
+  <img src="https://github.com/user-attachments/assets/c52b9ec6-4686-4a87-a773-f4c0dbe74fd5" height=240/>
 
   <br>
   
