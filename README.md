@@ -2,11 +2,9 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmarso34&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 
-<br/>
-
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/c52b9ec6-4686-4a87-a773-f4c0dbe74fd5" height=240/>
+  <img src="https://github.com/user-attachments/assets/c0948eff-d481-4267-9946-c37c41a48714" height=260/>
 
   <br>
   
