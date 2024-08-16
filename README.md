@@ -8,7 +8,7 @@
 
   <br>
   
-  ### 🛠 Tech Stack
+  ### 🛠 Skills
   
   #### Languages
   ![Languages](https://skillicons.dev/icons?i=c,cpp,cs,js,java,kotlin)  
