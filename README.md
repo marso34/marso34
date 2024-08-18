@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/03b70b67-2420-470b-b562-c36b1b86aa76"/>
+  ![GitHub Profile](https://github.com/user-attachments/assets/03b70b67-2420-470b-b562-c36b1b86aa76)
 
   <br>
   
@@ -26,7 +26,7 @@
   ![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,idea,androidstudio,,figma,notion) 
   
   #### 📘 Studying 
-  ![Studying](https://skillicons.dev/icons?i=docker,kubernetes,redis,kafka,postgres)  
+  ![Studying](https://skillicons.dev/icons?i=redhat,docker,kubernetes,redis,kafka,postgres)  
 
   <br>
 
