@@ -32,13 +32,6 @@
 
   #
   
-  ### 💻 BaekJoon Tier
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mars102aq)](https://solved.ac/mars102aq/) 
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=mars102aq&theme=cold)  
-
-  #
-  
   ### 💻 GitHub Stats
   
   ![marso34's GitHub stats](https://github-readme-stats.vercel.app/api?username=marso34&count_private=true&show_icons=true&bg_color=35,1b202d,677489,9aa5b8,d1d8e2&title_color=fff&text_color=fff&border_radius=16) 
