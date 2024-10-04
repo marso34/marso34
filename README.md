@@ -5,28 +5,20 @@
 <div align="center">
 
   ![GitHub Profile](https://github.com/user-attachments/assets/03b70b67-2420-470b-b562-c36b1b86aa76)
-
-  <br>
   
   ### 🛠 Skills
   
   #### Languages
   ![Languages](https://skillicons.dev/icons?i=c,cpp,cs,js,java,kotlin)  
   
-  #### Backend
-  ![Backend](https://skillicons.dev/icons?i=aws,spring,nodejs)  
+  #### Technologies
+  ![Technologies](https://skillicons.dev/icons?i=spring,mysql,sqlite,mongodb,git,github)  
+      
+  #### Tools
+  ![Others](https://skillicons.dev/icons?i=vscode,idea,androidstudio,,figma,notion) 
   
-  #### Frontend
-  ![Frontend](https://skillicons.dev/icons?i=vue,html,css,sass)  
-  
-  #### DBMS
-  ![DBMS](https://skillicons.dev/icons?i=mysql,sqlite,mongodb)   
-  
-  #### Tools & Technologies
-  ![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,idea,androidstudio,,figma,notion) 
-  
-  #### 📘 Studying 
-  ![Studying](https://skillicons.dev/icons?i=redhat,docker,kubernetes,redis,kafka,postgres)  
+  #### Studying 
+  ![Studying](https://skillicons.dev/icons?i=aws,docker,githubactions,redis,kafka,postgres)  
 
   <br>
 
@@ -47,5 +39,9 @@
 
 </div>
 
-### 📧 contact me
-<a href="mailto:mars102aq@gmail.com"><img src="https://img.shields.io/badge/-mars102aq@gmail.com-red?style=flat&logo=Gmail&logoColor=white" height="26"/></a>
+### 📧 Contact with me
+
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:mars102aq@gmail.com)&nbsp;
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/marso34/)&nbsp;
+
+<br>
