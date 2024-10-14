@@ -33,7 +33,7 @@
 
   ### 🏆 GitHub Trophy
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=marso34&rank=-?&margin-w=8&theme=onedark&no-bg=true)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=marso34&title=-Stars&row=1&margin-w=8&theme=onedark&no-bg=true)
 
   #
 
